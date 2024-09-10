@@ -1,4 +1,4 @@
-# Principal Component Analysis on Global Digital Competitiveness Dataset
+# Principal Component Analysis (PCA) on Global Digital Competitiveness Dataset
 
 ## Project Overview
 The primary objective of this project was to perform Principal Component Analysis (PCA) on a dataset related to digital competitiveness across various countries. The dataset initially consisted of 24 variables, including economic indicators, technological adoption metrics, and education and infrastructure data. The goal was to reduce the dimensionality of the dataset while retaining the most significant components that explain the majority of the variance in the data.
